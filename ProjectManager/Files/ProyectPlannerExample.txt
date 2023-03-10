@@ -1,0 +1,40 @@
+# Project Plan
+> This is a project plan description
+
+## Iterations
+Iteration 1
+ Start Date: 2023-03-01
+ End Date:2023-03-08
+ Milestones:
+  Kitchen
+  Garage
+
+Iteration 2
+ Start Date:2023-03-08
+ End Date:2023-03-15
+ Milestones:
+  Bathroom
+  Bedroom
+
+## Jobs
+Tarea 1
+ Iteration: Iteration 1
+ Duration: 5
+ Start Date: 2023-03-01
+ Priority: 1
+ Size: 2
+ Labels:
+  Label 1
+  Label 2
+
+Tarea 2
+ Iteration: Iteration 1
+ Duration: 7
+ Start Date: 2023-03-08
+ Predecessors:
+  Tarea 1
+ Priority: 1
+ Size: 2
+ Labels:
+  Label 1
+  Label 2
